@@ -14,6 +14,6 @@ This tool analyzes the last 30 matches of IPL players and predicts the **top 11 
 -<img width="1380" height="98" alt="image" src="https://github.com/user-attachments/assets/c68df720-e573-4b46-9453-1ce06dcd821b" />
 
 - We can change variables (`file_path`, `match_number`) to predict corresponding next match.
-
+- SquadPlayerNames_IndianT20League.xlsx is sample input file.
 ---
 
